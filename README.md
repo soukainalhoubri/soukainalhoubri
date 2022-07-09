@@ -6,6 +6,6 @@
  4. Network security: CCNA1, CCNA2. Worked on academic projects manipulating network security systems such as Suricata, Snort, Nagios.
 -  I’m currently working on my problem solving skills, for this purpose, I am learning Python DSA
 - 📫 How to reach me :
-Linkedin: https://www.linkedin.com/in/soukaina-lhoubri/
-E-mail: soukainalhoubri@gmail.com
+      > Linkedin: https://www.linkedin.com/in/soukaina-lhoubri/
+      > E-mail: soukainalhoubri@gmail.com
 
